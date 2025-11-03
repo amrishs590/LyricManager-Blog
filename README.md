@@ -19,7 +19,7 @@ It allows users to manage and interact with song lyrics — including posting, v
   - Like or react to lyrics to engage with the community
 - 🔐 **Security-Focused Design**
   - Passwords are **hashed securely** before storing in database  
-  - Protected against **XSS**, **CSRF**, and **SQL Injection**
+  - Protected **SQL Injection**
 - 🧱 **Follows MVC architecture** for clean code separation
 
 ---
